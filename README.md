@@ -1,2 +1,2 @@
-# exercism-elixir
-Solutions to exercism problems in Elixir. 
+# Exercism - Elixir
+Solutions to problems in Exercism elixir track.
